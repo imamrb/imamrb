@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I am a Software Engineer from Bangladesh specialized in Ruby on Rails and Backend development.
+- 🌱 I am a Software Engineer specialized in Ruby on Rails and Backend development.
 
 - 💬 I would love to discuss topics such as Ruby on Rails, JavaScript, GraphQL, Design principles, or software engineering in general.
 
